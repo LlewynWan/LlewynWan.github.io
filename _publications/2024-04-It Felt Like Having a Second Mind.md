@@ -3,7 +3,7 @@ title: "\"It Felt Like Having a Second Mind\": Investigating Human-AI Co-creativ
 collection: publications
 permalink: /publication/Investigating Human-AI Co-creativity in Prewriting with Large Language Models
 excerpt: ''
-date: 2024-04
+date: 2024-04-01
 venue: 'PACM HCI (CSCW)'
 paperurl: 'http://llewynwan.github.io/files/CSCW24_Co-creativity_in_Prewriting.pdf'
 citation: ''
