@@ -5,8 +5,8 @@ permalink: /publication/Investigating Human-AI Co-creativity in Prewriting with 
 excerpt: ''
 date: 2024-04-01
 venue: 'PACM HCI (CSCW)'
-paperurl: 'http://llewynwan.github.io/files/CSCW24_Co-creativity_in_Prewriting.pdf'
-citation: ''
+paperurl: 'https://arxiv.org/abs/2307.11025'
+# citation: ''
 ---
 
 <a href='http://llewynwan.github.io/files/CSCW24_Co-creativity_in_Prewriting.pdf'>Download paper here</a>
