@@ -3,9 +3,9 @@ title: "\" It Felt Like Having a Second Mind\": Investigating Human-AI Co-creati
 collection: publications
 permalink: /publication/Investigating_Human-AI_Co-creativity_in_Prewriting_with_Large_Language_Models
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'CSCW 2024'
-paperurl: 'https://arxiv.org/abs/2307.10811'
+date: 2024-04
+venue: 'PACM HCI (CSCW)'
+paperurl: 'http://llewynwan.github.io/files/CSCW24_Prewriting_Camera_Ready'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
