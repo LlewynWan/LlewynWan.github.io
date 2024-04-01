@@ -21,12 +21,12 @@ repository               : "Llewyn/llewynwan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_4x5.jpg"
+  avatar           : "profile.jpg"
   name             : "Qian (Llewyn) Wan"
   pronouns         : # example: "she/her"  
   bio              : "3-rd year PhD at CityU HK"
   location         : "Hong Kong"
-  employer         : ""
+  employer         : #
   uri              : # URL
   email            : "llewynwan2017@gmail.com" 
 
