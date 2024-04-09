@@ -11,6 +11,6 @@ I'm currently taking a PhD at City University of Hong Kong, supervised by [Dr. Z
 
 Besides HCI research, I like to read literature and philosophy. I'll update my reading list and share my reading here regularly (hope so ^_^).
 
-Selected publications
-======
+<!-- Selected publications
+====== -->
 
