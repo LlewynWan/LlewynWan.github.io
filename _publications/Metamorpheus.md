@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Metamorpheus
 # excerpt: ''
 date: 2024-03-01
-venue: 'ACM CHI 2024'
+venue: 'ACM CHI Conference on Human Factors in Computing Systems'
 # paperurl: 'https://arxiv.org/abs/2307.10811'
 # citation: ''
 ---
