@@ -569,3 +569,7 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+.a:link {
+  color: #3a688c
+}
