@@ -15,7 +15,6 @@
 <!-- <div class="{{ include.type | default: "list" }}__item"> -->
   <div class="{{ include.type }}">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <!-- <li> -->
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -41,6 +40,5 @@
     {% if post.authors %}
     <p class="archive__item-authors" itemprop="authors"><p>{{ post.authors | markdownify | remove: '<p>' | remove: '</p>' }}</p></p>
     {% endif %}
-    <!-- </li> -->
  </article>
 </div>
