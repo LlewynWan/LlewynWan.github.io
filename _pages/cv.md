@@ -39,9 +39,11 @@ Skills
 
 Publications
 ======
+  <ul style="list-style-type:none;">
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
+  </ul>
   
 <!-- Talks
 ======
