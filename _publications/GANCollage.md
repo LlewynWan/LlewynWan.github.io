@@ -5,6 +5,7 @@ permalink: /publication/GANCollage
 # excerpt: ''
 date: 2023-07-10
 venue: 'ACM Designing Interactive Systems Conference'
+authors: '**Qian Wan**, and Zhicong Lu'
 # paperurl: 'https://arxiv.org/abs/2307.10811'
 # citation: ''
 ---

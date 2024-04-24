@@ -5,6 +5,7 @@ permalink: /publication/ICPR
 # excerpt: ''
 date: 2021-01-10
 venue: '25th international conference on pattern recognition (ICPR)'
+authors: '**Qian Wan**, and Qin Zou'
 # paperurl: 'https://arxiv.org/abs/2307.10811'
 # citation: ''
 ---

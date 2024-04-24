@@ -5,6 +5,7 @@ permalink: /publication/Investigating VTubing as a Reconstruction of Streamer Se
 # excerpt: ''
 date: 2024-04-01
 venue: 'PACM HCI (CSCW)'
+authors: '**Qian Wan**, and Zhicong Lu'
 # paperurl: 'https://arxiv.org/abs/2307.11025'
 # citation: ''
 ---

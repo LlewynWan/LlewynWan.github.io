@@ -5,6 +5,7 @@ permalink: /publication/Investigating Human-AI Co-creativity in Prewriting with 
 # excerpt: ''
 date: 2024-04-01
 venue: 'PACM HCI (CSCW)'
+authors: '**Qian Wan**, Siying Hu, Yu Zhang, Piaohong Wang, Bo Wen, Zhicong Lu'
 # paperurl: 'https://arxiv.org/abs/2307.10811'
 # citation: ''
 ---

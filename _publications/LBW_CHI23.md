@@ -5,6 +5,7 @@ permalink: /publication/CHI23_LBW
 # excerpt: ''
 date: 2023-07-10
 venue: 'Extended Abstracts of ACM CHI Conference on Human Factors in Computing Systems'
+authors: '**Qian Wan**, and Zhicong Lu'
 # paperurl: 'https://arxiv.org/abs/2307.10811'
 # citation: ''
 ---
