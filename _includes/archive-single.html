@@ -58,6 +58,8 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p class="wordwrap">Link <a href=" {{ post.paperurl }} ">here</a></p>
+    {% elsif post.authors %}
+    <p class="archive__item-authors" itemprop="authors"><p>{{ post.authors | markdownify | remove: '<p>' | remove: '</p>' }}</p></p>
     {% endif %}
 
   </article>

@@ -5,6 +5,7 @@ permalink: /publication/Metamorpheus
 # excerpt: ''
 date: 2024-03-01
 venue: 'ACM CHI Conference on Human Factors in Computing Systems'
+authors: '**Qian Wan**, Xin Feng, Yining Bei, Zhiqi Gao, Zhicong Lu'
 # paperurl: 'https://arxiv.org/abs/2307.10811'
 # citation: ''
 ---
