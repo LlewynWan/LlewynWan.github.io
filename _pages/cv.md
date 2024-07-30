@@ -15,12 +15,16 @@ Education
 * PhD candidate in Computer Science, __City University of Hong Kong__, 2021-2025 _(expected)_
 * Bachelor of Engineering in Computer Science, __Wuhan University__, 2017-2021 _(Yes, I was there when COVID broke out)_
 
+&nbsp
+
 Work experience
 ======
 * Oct. 2020 - May. 2021: Microsoft Research Asia
   * Reseaerch Intern
   * Mentor: Xiao Li
-  
+
+&nbsp
+
 Skills
 ======
 * Coding
@@ -35,6 +39,8 @@ Skills
   * Mandarin (native)
   * English
   * Cantonese
+
+&nbsp
 
 Publications
 ======
