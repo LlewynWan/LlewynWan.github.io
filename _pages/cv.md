@@ -15,7 +15,7 @@ Education
 * PhD candidate in Computer Science, __City University of Hong Kong__, 2021-2025 _(expected)_
 * Bachelor of Engineering in Computer Science, __Wuhan University__, 2017-2021 _(Yes, I was there when COVID broke out)_
 
-&nbsp
+&nbsp;
 
 Work experience
 ======
@@ -23,7 +23,7 @@ Work experience
   * Reseaerch Intern
   * Mentor: Xiao Li
 
-&nbsp
+&nbsp;
 
 Skills
 ======
@@ -40,7 +40,7 @@ Skills
   * English
   * Cantonese
 
-&nbsp
+&nbsp;
 
 Publications
 ======
