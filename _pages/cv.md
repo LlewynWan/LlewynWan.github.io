@@ -36,6 +36,7 @@ Skills
     * Django
     * AI stuff (PyTorch, TensorFlow, ...)
   * C / C++ (best in the world)
+* Design: Figma
 * Language
   * Mandarin (native)
   * English
