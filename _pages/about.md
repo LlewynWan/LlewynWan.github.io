@@ -21,8 +21,8 @@ Selected publications
 <img src="images/Metamorpheus.png" alt="Metamorpheus" style="width:75%; height:auto;">
 </div>
 
-<div style="text-align: center;">
 In an empirical study with 15 participants, we identified three theoretically-grounded stages of co-creativity during prewriting with GPT-3.
+<div style="text-align: center;">
 <img src="images/prewriting_workflow_dark.png" alt="Prewriting Workflow" style="width:75%; height:auto;">
 </div>
 
