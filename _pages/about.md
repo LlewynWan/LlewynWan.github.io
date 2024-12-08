@@ -11,9 +11,14 @@ I'm a final year PhD candidate at City University of Hong Kong, supervised by [P
 
 Besides HCI research, I love reading philosophy.
 
+&nbsp;
 
 Selected publications
-======
+------
 
-![Metamorpheus](/images/Metamorpheus.png)
+[***Metamorpheus***](https://dl.acm.org/doi/full/10.1145/3613904.3642410) is an affective interface that engages users in a metaphorical dream narration for affective mindfulness and self-reflection.
+<img src="images/images.png" alt="Alt Text" style="width:75%; height:auto;">
+
+In an empirical study with 15 participants, we identified three theoretically-grounded stages of co-creativity during prewriting with GPT-3.
+<img src="images/prewriting_workflow_dark.png" alt="Alt Text" style="width:75%; height:auto;">
 
