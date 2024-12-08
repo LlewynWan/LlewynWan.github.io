@@ -11,8 +11,9 @@ I'm a final year PhD candidate at City University of Hong Kong, supervised by [P
 
 Besides HCI research, I love reading philosophy.
 
-![Metamorpheus](/images/Metamorpheus.png)
 
-<!-- Selected publications
-====== -->
+Selected publications
+======
+
+![Metamorpheus](/images/Metamorpheus.png)
 
