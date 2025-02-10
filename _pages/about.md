@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a final year PhD candidate at City University of Hong Kong, supervised by [Professor Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/). My current research is focused on the intersection between creativity support, and human-AI collaboration. Specifically, I seek to understand the impact of AI on creative activities, unravel broader social implications, and design to support both individual and group creativity. I'm also broadly interested in other topics such as responsible AI, social computing, and affective computing.
+I'm a final year PhD candidate at City University of Hong Kong, supervised by Professor [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/). My current research is focused on the intersection between creativity support, human-AI collaboration, and social computing. Specifically, I seek to understand the impact of AI on creative activities, unravel broader social implications, and design to support both individual and group creativity. I'm also broadly interested in other topics such as responsible AI, affective computing, and personal informatics.
 
 Besides HCI research, I love reading philosophy.
 
