@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Qian (Llewyn) Wan"
+title                    : "Qian Wan"
 title_separator          : "-"
 name                     : &name "Qian Wan"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "Llewyn/llewynwan.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Qian (Llewyn) Wan"
+  name             : "Qian Wan"
   pronouns         : # example: "she/her"  
   bio              : "3rd year PhD candidate at CityU HK"
   location         : "Hong Kong"
