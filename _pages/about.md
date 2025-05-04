@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Hi, I'm Qian (Llewyn) Wan, 萬騫/万骞."
+title: "Hi, I'm Qian Wan, 萬騫."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a final year PhD candidate at City University of Hong Kong, supervised by Professor [Yuhan Luo](https://yuhanlolo.github.io/me/), and previously Professor [Zhicong Lu](https://luzhc.github.io/). My current research is focused on the intersection between creativity support, human-AI collaboration, and social computing. Specifically, I seek to understand the impact of AI on creative activities, unravel broader social implications, and design new paradigms and workflows to support human-GenAI co-creativity. I'm also broadly interested in other topics such as responsible AI, affective computing, and personal informatics.
+I'm a final year PhD candidate at City University of Hong Kong, supervised by Professor [Yuhan Luo](https://yuhanlolo.github.io/me/), and previously Professor [Zhicong Lu](https://luzhc.github.io/). My current research explores the intersection between creativity support, human-AI collaboration, and social computing. Specifically, I seek to understand the anthropomorphized role of GenAI in creative thinking process, unravel downstream implications of co-creative activities such as storytelling in personal informatics, and design new paradigms and workflows to support human-GenAI collaboration.
 
 Besides HCI research, I love reading philosophy.
 
