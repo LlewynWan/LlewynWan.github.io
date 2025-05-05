@@ -10,12 +10,6 @@ redirect_from:
 {% include base_path %}
 &nbsp;
 
-<object data="https://llewynwan.github.io/files/CV.pdf" type="application/pdf" width="700px" height="1000px">
-    <embed src="https://llewynwan.github.io/files/CV.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
 Education
 ======
 * PhD candidate in Computer Science, __City University of Hong Kong__, 2021-2025 _(expected)_
