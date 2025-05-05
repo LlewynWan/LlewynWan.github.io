@@ -10,7 +10,11 @@ redirect_from:
 {% include base_path %}
 &nbsp;
 
-<a href="files/CV.pdf">Download Here</a>
+<object data="files/CV.pdf" type="application/pdf" width="700px" height="1000px">
+    <embed src="files/CV.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 Education
 ======
